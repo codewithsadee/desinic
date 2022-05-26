@@ -1,0 +1,201 @@
+Desinic - Get Best UI Design
+
+
+
+#......... HEADER ..........#
+
+Desinic
+
+Desinic
+
+aria-labe = Close Menu
+<ion-icon name="close-outline"></ion-icon>
+
+Home
+About
+Services
+Features
+Blog
+Contact Us
+
+<ion-icon name="chevron-forward-outline" aria-hidden="true"></ion-icon>
+Get A Quote
+
+aria-label = Open Menu
+<ion-icon name="menu-outline"></ion-icon>
+
+
+
+#......... HERO ..........#
+
+We Are Product Designer From UK
+
+We Design Interfaces That Users Love
+
+Morbi sed lacus nec risus finibus feugiat et fermentum nibh. Pellentesque vitae ante at elit fringilla ac at purus.
+
+Learn More
+
+alt = hero-banner
+
+
+
+#......... ABOUT ..........#
+
+alt = about banner
+
+Why Our Agency
+
+In dictum aliquam turpis lacinia iaculis. Fusce vel malesuada magna. Nulla vel maximus risus. Donec volutpat metus lacinia risus accumsan, ac bibendum libero efficitur. Pellentesque nec nisi sit amet magna tempus hendrerit ut a odio.
+
+Praesent rhoncus commodo tortor, id pulvinar nisl blandit at. Nulla facilisi. Quisque turpis ante, vehicula condimentum arcu.
+
+9875
+Satisfied Clients
+
+7894
+Project Lunched
+
+65
+Years Completed
+
+
+
+
+
+#......... SERVICE ..........#
+
+Our Speciallization
+
+<ion-icon name="telescope-outline"></ion-icon>
+
+Strategy & Research
+
+Mauris ut felis malesuada eros varius tristique a at orci. Nulla vulputate, leo sit amet rhoncus suscipit, enim ex venenatis ipsum, et porttitor.
+
+aria-label = Show More
+<ion-icon name="chevron-forward-outline"></ion-icon>
+
+<ion-icon name="desktop-outline"></ion-icon>
+Web Development
+
+<ion-icon name="globe-outline"></ion-icon>
+Web Solution
+
+
+
+
+
+#......... FEATURES ..........#
+
+Our Features
+
+<ion-icon name="bulb-outline"></ion-icon>
+Idea & Analysis
+
+Praesent tincidunt congue est ut hendrerit. Pellentesque et eros sit amet ipsum venenatis.
+
+<ion-icon name="color-palette-outline"></ion-icon>
+Designing
+
+alt = Features Banner
+
+<ion-icon name="code-slash-outline"></ion-icon>
+Development
+
+<ion-icon name="rocket-outline"></ion-icon>
+Testing & Lunching
+
+
+
+
+
+#......... BLOG ..........#
+
+Our Blog & News
+
+alt = Vestibulum massa arcu, consectetu pellentesque scelerisque.
+
+Vestibulum massa arcu, consectetu pellentesque scelerisque.
+
+Sed quis sagittis velit. Aliquam velit eros, bibendum ut massa et, consequat laoreet erat nam ac imperdiet.
+
+<ion-icon name="time-outline"></ion-icon>
+7 March, 2022
+
+aria-label = Comment
+
+<ion-icon name="chatbubble-outline"></ion-icon>
+15
+
+aria-label = Share
+<ion-icon name="share-social-outline"></ion-icon>
+
+
+Quisque egestas iaculis felis eget placerat ut pulvinar mi.
+
+Fusce sem ligula, imperdiet sed nisi sit amet, euismod posuere.
+
+Donec feugiat mollis nisi in dignissim. Morbi sollicitudin quis.
+
+
+
+
+
+#......... FOOTER ..........#
+
+Desinic
+
+Maecenas pellentesque placerat quam, in finibus nisl tincidunt sed. Aliquam magna augue, malesuada ut feugiat eget, cursus eget felis.
+
+<ion-icon name="logo-facebook"></ion-icon>
+<ion-icon name="logo-instagram"></ion-icon>
+<ion-icon name="logo-twitter"></ion-icon>
+
+Our links
+
+Home
+About Us
+Services
+Team
+Blog
+
+Our Services
+
+Strategy & Research
+Web Development
+Web Solution
+Digital Marketing
+App Design
+
+Other links
+
+FAQ
+Portfolio
+Privacy Policy
+Terms & Conditions
+Support
+
+Contact Us
+
+<ion-icon name="call"></ion-icon>
++248-421-4313
++248-687-1365
+
+<ion-icon name="mail"></ion-icon>
+info@desinic.com
+help@desinic.com
+
+<ion-icon name="location"></ion-icon>
+Pontiac, Michigan, United States of America
+
+&copy; 2022 codewithsadee. All Right Reserved
+
+
+
+
+
+#......... GO TO TOP ..........#
+
+aria-label = Go To Top
+<ion-icon name="arrow-up-outline"></ion-icon>
